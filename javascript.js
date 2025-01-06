@@ -3,7 +3,10 @@ var name = "Artem";
 let isStudent = true;
 let myString = "true или false вот в чем вопрос";
 let myNumber = 5 + 10;
-// console.log(myNumber+10)
+console.log(myNumber)
+console.log(age, "возраст")
+console.log(name, "имя")
+console.log(myString,"цитата")
 let myNull = "hull";
 console.log(myNull)
 var name = prompt("ваше имя?")

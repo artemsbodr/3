@@ -12,3 +12,4 @@ alert("Дякуємо, "+ userName + " До сплати " + payment)
 if (email.includes("@")) {
     console.log(email)
 }
+//22

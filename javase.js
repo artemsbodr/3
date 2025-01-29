@@ -1,3 +1,4 @@
+console.log("Hi")
 const result = 5+5+5;
 const payment = "400 999 гривень!";
 const userName = "Viktor";
@@ -12,4 +13,3 @@ alert("Дякуємо, "+ userName + " До сплати " + payment)
 if (email.includes("@")) {
     console.log(email)
 }
-//22

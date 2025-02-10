@@ -1,7 +1,7 @@
 // завдання 1
 console.log("Hi")
 const result = 5+5+5;
-// завдання 
+// завдання 2
 const email = "posta@.com";
 if (email.includes("@")) {
     console.log(email)
